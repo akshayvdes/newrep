@@ -1,5 +1,5 @@
 #!/bin/bash
-#akshay
+#This is Prithvi.
 echo "enter file name"
 read filename
 
