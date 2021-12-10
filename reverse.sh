@@ -1,5 +1,5 @@
 #!/bin/bash
-#added line with akshay
+#akshay
 echo "enter file name"
 read filename
 
